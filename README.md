@@ -22,6 +22,6 @@ One-time GitHub setup:
 
 GitHub will publish the site at a URL like:
 
-`https://<your-github-username>.github.io/quizer-privacy-policy/`
+`https://alinaios.github.io/quizer-privacy-policy/`
 
-Use that URL in App Store Connect as the app's Privacy Policy URL.
+Use `https://alinaios.github.io/quizer-privacy-policy/` in App Store Connect as the app's Privacy Policy URL.
