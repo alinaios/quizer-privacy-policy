@@ -1,6 +1,6 @@
 # AsanaQuiz Privacy Policy
 
-This repository contains the public privacy policy site for the `AsanaQuiz` iOS app.
+This repository contains the public privacy policy site for the `AsanaQuiz` app.
 
 ## Files
 
